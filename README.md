@@ -148,14 +148,3 @@ Share 2 identified with 100% error rate
 Result: Share 2 corrupted, correct secret = 79836264049851
 ```
 
-## Contributing
-
-This implementation serves as a proof-of-concept for error detection in Shamir's Secret Sharing. Potential improvements include:
-- Support for multiple simultaneous errors
-- More sophisticated error correction algorithms
-- Better JSON parsing with external libraries
-- Performance optimizations for large share sets
-
-## License
-
-This project is provided as-is for educational and research purposes.
