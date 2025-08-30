@@ -29,8 +29,8 @@ The error detection works by:
 ├── ShamirErrorDetectionSimple.java  # Main implementation
 ├── test.json                        # Test case 1: No errors detected
 ├── test1.json                       # Test case 2: Error detected in share 2
-├── result.md                        # Analysis results for test.json
-├── result1.md                       # Analysis results for test1.json
+├── result.txt                       # Analysis results for test.json
+├── result1.txt                      # Analysis results for test1.json
 └── README.md                        # This file
 ```
 
@@ -147,4 +147,5 @@ Secret frequency analysis:
 Share 2 identified with 100% error rate
 Result: Share 2 corrupted, correct secret = 79836264049851
 ```
+
 
